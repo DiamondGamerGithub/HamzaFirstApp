@@ -1,0 +1,15 @@
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\bin\Debug\net6.0\hamzafirstapp.exe
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\bin\Debug\net6.0\hamzafirstapp.deps.json
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\bin\Debug\net6.0\hamzafirstapp.runtimeconfig.json
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\bin\Debug\net6.0\hamzafirstapp.dll
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\bin\Debug\net6.0\hamzafirstapp.pdb
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\obj\Debug\net6.0\hamzafirstapp.csproj.AssemblyReference.cache
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\obj\Debug\net6.0\hamzafirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\obj\Debug\net6.0\hamzafirstapp.AssemblyInfoInputs.cache
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\obj\Debug\net6.0\hamzafirstapp.AssemblyInfo.cs
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\obj\Debug\net6.0\hamzafirstapp.csproj.CoreCompileInputs.cache
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\obj\Debug\net6.0\hamzafirstapp.dll
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\obj\Debug\net6.0\refint\hamzafirstapp.dll
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\obj\Debug\net6.0\hamzafirstapp.pdb
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\obj\Debug\net6.0\hamzafirstapp.genruntimeconfig.cache
+C:\Users\engho\HamzaProjects\FirstApp\hamzafirstapp\obj\Debug\net6.0\ref\hamzafirstapp.dll
